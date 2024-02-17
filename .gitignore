@@ -1,0 +1,27 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook kernel metadata
+*.ipynb.meta
+
+# Ignore Jupyter Notebook temporary files
+*.ipynb.*~
+
+# Ignore Jupyter Notebook autosave files
+*.ipynb.autosave
+
+# Ignore Jupyter Notebook output files
+*.ipynb.output
+
+# Ignore Jupyter Notebook HTML export files
+*.html
+
+# Ignore Jupyter Notebook Python script export files
+*.py
+
+# Ignore Jupyter Notebook log files
+*.log
+
+# Ignore rag_env virtual environment
+rag_env/
+
