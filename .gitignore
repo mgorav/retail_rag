@@ -1,0 +1,8 @@
+# Ignore DataSpell project files
+/.dataspell/
+
+# Ignore virtual environment
+/rag_venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
